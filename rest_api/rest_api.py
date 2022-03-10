@@ -7,7 +7,9 @@ api = Api(app)
 
 class HelloWorld(Resource):
     """
-        We first initialized api, if anyone hits this class it will return Hello World as response on JSON formats 
+        We first initialized api. After that we are making a GET requests that states if anyone hits on this class,
+        then it will return Hello World as response on JSON formats.
+        
     """
     def __init__(self):
         pass
