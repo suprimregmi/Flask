@@ -21,6 +21,7 @@ then it will take Name as input and on hitting GET method, will give that Name b
 <h1>Using_sdecorators.py</h1>
 <tr>
 <td>
-    We use decorators with APIs to monitor IP addresses, cookies etc. A decorator is a function that takes another function as an argument and returns another function
+    We use decorators with APIs to monitor IP addresses, cookies etc. A decorator is a function that takes another function as an argument and returns another function.
+    There are two decorators. In 1st one we are making the external time function which returns the code execution time.
 </td>
 </tr>
